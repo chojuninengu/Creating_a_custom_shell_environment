@@ -1,11 +1,25 @@
-# QUESTIONS 2
-
-
 | N/A | MEMBERS |
 | --- | --- |
 | 1 | LOUISE |
 | 2 | DESMOND |
 | 3 | JU-NINE |
+### **Exercise 2: Create a Custom Shell Environment**
+
+**Goal:** Create a customized shell environment using `.bashrc`, `.bash_profile`, and `zsh` with useful shortcuts, aliases, and functions.
+
+**Requirements:**
+
+1. Design a `.bashrc` or `.zshrc` file with:
+    - Custom aliases and functions for common Linux commands.
+    - Personalized PS1 prompt displaying useful system information (e.g., username, hostname, current directory, and git branch).
+    - Autocomplete and history enhancements.
+2. Create a startup script in `.bash_profile` to launch custom tools or display a welcome message.
+3. Provide a Docker container to test the shell configuration.
+
+   The first thing to do is to copy the URL of the repository then open your terminal and create a directory and enter the directory and type in the following
+   ```
+   git clone https://github.com/chojuninengu/Creating_a_custom_shell_environment.git
+   ```
 
 
 # Custom Bash Environment and Docker Setup Script
@@ -69,3 +83,4 @@ The script copies your custom `.bashrc` file to the current folder so Docker can
 2. Open a terminal and run the script:
    ```bash
    bash setup.sh
+```
