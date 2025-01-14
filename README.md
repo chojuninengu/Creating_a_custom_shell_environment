@@ -3,7 +3,7 @@
 
 | N/A | MEMBERS |
 | --- | --- |
-| 1 | LUOIZY |
+| 1 | LOUISE |
 | 2 | DESMOND |
 | 3 | JU-NINE |
 
