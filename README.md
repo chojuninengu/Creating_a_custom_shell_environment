@@ -5,7 +5,7 @@
 | 3 | JU-NINE |
 ### **Exercise 2: Create a Custom Shell Environment**
 
-**Goal:** Create a customized shell environment using `.bashrc`, `.bash_profile`, and `zsh` with useful shortcuts, aliases, and functions.
+**Goal:** Create a customized shell environment using `.bashrc`, `.bash_profile`, and `zsh` with useful shortcuts, aliases, and functions.   
 
 **Requirements:**
 
